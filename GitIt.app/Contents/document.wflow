@@ -41,7 +41,7 @@
 					<dict>
 						<key>tokenizedValue</key>
 						<array>
-							<string>https://github.com/mikaelvesavuori/figmagic-example.git</string>
+							<string></string>
 						</array>
 					</dict>
 					<key>defaultMessage</key>
@@ -74,7 +74,7 @@
 					<key>buttonNegative</key>
 					<string>Cancel</string>
 					<key>defaultAnswer</key>
-					<string>https://github.com/mikaelvesavuori/figmagic-example.git</string>
+					<string></string>
 					<key>defaultMessage</key>
 					<string>Please provide the URL to a Git repository.</string>
 					<key>requireInput</key>
